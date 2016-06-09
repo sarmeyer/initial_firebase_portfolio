@@ -1,0 +1,49 @@
+body{
+  display: inline;
+}
+header {
+  font-family: Lobster,monospace;
+  font-size: 100px;
+  position:absolute;
+  top:30%;
+  left: 33%;
+
+}
+input {
+  font-family: Avenir,sans-serif;
+  position: absolute;
+  background-color: white;
+  top: 50%;
+  width: 150px;
+  height: 60px;
+  border: solid 4px black;
+  color: black;
+  font-size: 33px;
+}
+.past {
+  left: 30%;
+}
+.present {
+  left: 45%;
+  width: 165px;
+}
+.future {
+  left: 61%;
+}
+.info {
+  position: absolute;
+  width: 100vw;
+  top: 60%;
+}
+h2 {
+  font-family: Avenir,sans-serif;
+  font-size: 20px;
+  text-align: center;
+  padding: 50px 150px 0px 150px;
+}
+img {
+  display: inline;
+  position: absolute;
+  left: 36%;
+  top: 54%;
+}
